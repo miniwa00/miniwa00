@@ -4,8 +4,6 @@
 #### 📞 contact
 <a href="https://www.linkedin.com/in/kim-j-25a93a11b/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/kim-j-25a93a11b/"/></a> <a href="mailto:miniwa00@gmail.com"><img src="https://img.shields.io/badge/miniwa00@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miniwa00@gmail.com"/></a> <a href="mailto:https://www.instagram.com/may_u_like/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=mailto:https://www.instagram.com/may_u_like/"/></a>
 
-<br/>
-
 ## 💻 Techincal Skills
 #### Language
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
@@ -23,7 +21,5 @@
 <img src="https://img.shields.io/badge/Chat GPT-412991?style=for-the-badge&logo=Chat GPT&logoColor=white"> <img src="https://img.shields.io/badge/Bard-886FBF?style=for-the-badge&logo=Bard&logoColor=white"> 
 
 ## 🌏 Language Skills
-<img src="https://github.com/miniwa00/miniwa00/assets/47784464/1ef408f9-3e08-43ff-91dd-2837e5315c18"
- alt="Korean" width="30"> Korean: native <br/>
-<img src="https://github.com/miniwa00/miniwa00/assets/47784464/f526ec1c-395d-4822-93c0-a71213843bc7"
- alt="English" width="30"> English: fluent <img/>
+<img src="https://github.com/miniwa00/miniwa00/assets/47784464/1ef408f9-3e08-43ff-91dd-2837e5315c18" alt="Korean" width="30">Korean: native <br/>
+<img src="https://github.com/miniwa00/miniwa00/assets/47784464/f526ec1c-395d-4822-93c0-a71213843bc7" alt="English" width="30"> English: fluent <img/>
