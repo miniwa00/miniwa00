@@ -2,7 +2,7 @@
 ##### 안녕하세요! 👋 행동하는 개발자 '김종민'입니다. 저는 인류가 직면한 문제를 해결하기 위해 삽니다.
 
 #### 📞 contact
-<a href="https://www.linkedin.com/in/kim-j-25a93a11b/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/kim-j-25a93a11b/"/></a> <a href="mailto:miniwa00@gmail.com"><img src="https://img.shields.io/badge/miniwa00@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miniwa00@gmail.com"/></a> <a href="https://www.instagram.com/may_u_like/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=mailto:https://www.instagram.com/may_u_like/"/></a>
+<a href="https://www.linkedin.com/in/kim-j-25a93a11b/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/kim-j-25a93a11b/"/></a> <a href="mailto:miniwa00@gmail.com"><img src="https://img.shields.io/badge/miniwa00@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miniwa00@gmail.com"/></a> <a href="https://www.instagram.com/may_u_like/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=mailto:https://www.instagram.com/may_u_like/"/></a>
 
 ## 💻 Techincal Skills
 #### Language
