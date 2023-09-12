@@ -21,5 +21,5 @@
 <img src="https://img.shields.io/badge/Chat GPT-412991?style=for-the-badge&logo=Chat GPT&logoColor=white"> <img src="https://img.shields.io/badge/Bard-886FBF?style=for-the-badge&logo=Bard&logoColor=white"> 
 
 ## 🌏 Language Skills
-<img src="https://github.com/miniwa00/miniwa00/assets/47784464/1ef408f9-3e08-43ff-91dd-2837e5315c18" alt="Korean" width="30">Korean: native <br/>
-<img src="https://github.com/miniwa00/miniwa00/assets/47784464/f526ec1c-395d-4822-93c0-a71213843bc7" alt="English" width="30"> English: fluent <img/>
+<img src="https://github.com/miniwa00/miniwa00/assets/47784464/1ef408f9-3e08-43ff-91dd-2837e5315c18" alt="Korean" width="40" height="30"> **Korean : native** <br/>
+<img src="https://github.com/miniwa00/miniwa00/assets/47784464/f526ec1c-395d-4822-93c0-a71213843bc7" alt="English" width="40" height="30"> **English : fluent** <img/>
