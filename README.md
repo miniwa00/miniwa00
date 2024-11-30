@@ -28,4 +28,4 @@
 ---
 
 ### 📓 Please visit my Dev Note!
-- ## [JM's Dev Note](https://miniwa00.github.io "JM's Dev Note")
+- ### [JM's Dev Note](https://miniwa00.github.io "JM's Dev Note")
