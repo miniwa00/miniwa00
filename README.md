@@ -1,4 +1,4 @@
-###### Hi there! 👋 It's AI Solution Engineer 'Jongmin Kim!' I live to create a world where anyone, anytime, anywhere can easily create what they want through AI technology.
+##### Hi there! 👋 I am an AI solution engineer named 'Jongmin Kim'. I am working to make a positive impact on the world through software and AI technology.
 ##### 안녕하세요! 👋 AI 솔루션 엔지니어 '김종민'입니다. 저는 소프트웨어와 AI 기술을 통해 세상에 긍정적인 영향을 미치고자 노력하고 있습니다.
 
 ---
