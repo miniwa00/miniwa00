@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=ava&logoColor=white">
 
 ##### **Library**
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"> <img src="https://img.shields.io/badge/TensorRT-006600?style=for-the-badge&logo=Tensorrt&logoColor=white"> <img src="https://img.shields.io/badge/Gradio-F2CA30?style=for-the-badge&logo=Gradio&logoColor=white">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"> <img src="https://img.shields.io/badge/TensorRT-006600?style=for-the-badge&logo=Nvidia&logoColor=white"> <img src="https://img.shields.io/badge/Gradio-F2CA30?style=for-the-badge&logo=Gradio&logoColor=white">
 
 ##### **Framework**
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
