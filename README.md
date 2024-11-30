@@ -1,4 +1,4 @@
-##### Hi there! 👋 It's AI Solution Engineer 'Jongmin Kim!' I live to create a world where anyone, anytime, anywhere can easily create what they want through AI technology.
+###### Hi there! 👋 It's AI Solution Engineer 'Jongmin Kim!' I live to create a world where anyone, anytime, anywhere can easily create what they want through AI technology.
 ##### 안녕하세요! 👋 AI 솔루션 엔지니어 '김종민'입니다. 저는 소프트웨어와 AI 기술을 통해 세상에 긍정적인 영향을 미치고자 노력하고 있습니다.
 
 ---
@@ -10,19 +10,19 @@
 ---
 
 ### 🛠 Tech Stack
-####  **Languages** 
+#####  **Languages** 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=ava&logoColor=white">
 
-#### **Library**
+##### **Library**
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"> <img src="https://img.shields.io/badge/TensorRT-006600?style=for-the-badge&logo=Tensorrt&logoColor=white"> <img src="https://img.shields.io/badge/Gradio-F2CA30?style=for-the-badge&logo=Gradio&logoColor=white">
 
-#### **Framework**
+##### **Framework**
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
 
-#### **Database**
+##### **Database**
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white">
 
-#### **Tools & Cloud Services**
+##### **Tools & Cloud Services**
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Amazon Web Services-232F3E?style=for-the-badge&logo=Amazon Web Services&logoColor=white"> 
 
 ---
