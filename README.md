@@ -4,7 +4,7 @@
 ---
 
 ### 📞 Contact
-- <a href="https://www.linkedin.com/in/kim-j-25a93a11b/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/kim-j-25a93a11b/"/></a> 
+- <a href="https://www.linkedin.com/in/kim-j-25a93a11b/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jmkim2000/"/></a> 
 - <a href="mailto:miniwa00@gmail.com"><img src="https://img.shields.io/badge/miniwa00@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miniwa00@gmail.com"/></a> 
 
 ---
